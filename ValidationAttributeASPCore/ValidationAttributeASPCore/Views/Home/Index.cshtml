@@ -1,0 +1,33 @@
+﻿@model ValidationAttributeASPCore.Models.Student;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div class="Container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form asp-controller="Home" asp-action="Index" method="post">
+                <input asp-for="Name" class="form-control" placeholder="Enter Name" />
+                <span asp-validation-for="Name"></span>
+                <br />
+
+                <input asp-for="Email" class="form-control" placeholder="Enter Email" />
+                <span asp-validation-for="Email"></span>
+                <br />
+
+                <input asp-for="Age" class="form-control" placeholder="Enter Age" />
+                <span asp-validation-for="Age"></span>
+                <br />
+
+                <input asp-for="Password" class="form-control" placeholder="Enter Password" />
+                <span asp-validation-for="Password"></span>
+                <br />
+                <input type="submit" value="Submit" class="btn btn-outline-primary" />
+            </form>
+        </div>
+    </div>
+</div>

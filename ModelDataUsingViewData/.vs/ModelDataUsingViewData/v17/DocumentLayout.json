@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91965\\Desktop\\Asp.Net Core\\ModelDataUsingViewData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65C49A8D-8B61-4053-9983-79EA4D2611FF}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\91965\\desktop\\asp.net core\\modeldatausingviewdata\\modeldatausingviewdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65C49A8D-8B61-4053-9983-79EA4D2611FF}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C49A8D-8B61-4053-9983-79EA4D2611FF}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\91965\\desktop\\asp.net core\\modeldatausingviewdata\\modeldatausingviewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C49A8D-8B61-4053-9983-79EA4D2611FF}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C49A8D-8B61-4053-9983-79EA4D2611FF}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|c:\\users\\91965\\desktop\\asp.net core\\modeldatausingviewdata\\modeldatausingviewdata\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C49A8D-8B61-4053-9983-79EA4D2611FF}|ModelDataUsingViewData\\ModelDataUsingViewData.csproj|solutionrelative:modeldatausingviewdata\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\91965\\Desktop\\Asp.Net Core\\ModelDataUsingViewData\\ModelDataUsingViewData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\91965\\Desktop\\Asp.Net Core\\ModelDataUsingViewData\\ModelDataUsingViewData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelDataUsingViewData\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T03:20:22.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\91965\\Desktop\\Asp.Net Core\\ModelDataUsingViewData\\ModelDataUsingViewData\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\91965\\Desktop\\Asp.Net Core\\ModelDataUsingViewData\\ModelDataUsingViewData\\Models\\Employee.cs",
+              "RelativeToolTip": "ModelDataUsingViewData\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T03:20:06.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\91965\\Desktop\\Asp.Net Core\\ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\91965\\Desktop\\Asp.Net Core\\ModelDataUsingViewData\\ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ModelDataUsingViewData\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T03:19:57.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
