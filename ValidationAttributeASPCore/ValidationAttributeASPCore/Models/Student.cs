@@ -5,7 +5,9 @@ namespace ValidationAttributeASPCore.Models
     public class Student
     {
         [Required (ErrorMessage = "Name Is Must")]
-        [StringLength (15, MinimumLength = 3)]
+        //[StringLength (15, MinimumLength = 3)]
+        //[MaxLength (15)]
+        [MinLength (3 , ErrorMessage =" minimum length must be 3 character")]
         public string Name { get; set; }
 
         [Required(ErrorMessage = "Email Is Must")]
@@ -17,8 +19,14 @@ namespace ValidationAttributeASPCore.Models
         [Range (10, 50, ErrorMessage ="Range within 10 To 50")]
         public int Age { get; set; }
 
-        [Required(ErrorMessage = "Password Is Must")]
-        [RegularExpression(@" (?=^.{8,}$)((?=.*\\d)|(?=.*\\W+))(?![.\\n])(?=.*[A-Z])(?=.*[a-z])")]
-        public string Password { get; set; }
+        //[Required(ErrorMessage = "Password Is Must")]
+        //[RegularExpression(@" (?=^.{8,}$)((?=.*\\d)|(?=.*\\W+))(?![.\\n])(?=.*[A-Z])(?=.*[a-z])")]
+        //public string Password { get; set; }
+        //[Required(ErrorMessage = "ConfirmPassword Is Must")]
+        //[Compare("Password",ErrorMessage ="Both Passwords Are Identical")]
+        //public string ConfirmPassword { get; set; }
+        //[Required(ErrorMessage = "WebsiteURL Is Must")]
+        //[Url(ErrorMessage = "Invalid Url")]
+        //public string WebSiteURL { get; set; }
     }
 }

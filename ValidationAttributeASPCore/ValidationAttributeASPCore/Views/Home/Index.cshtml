@@ -10,22 +10,31 @@
 <div class="Container">
     <div class="row">
         <div class="col-sm-4">
+            <div asp-validation-summary="All"style="color:red"></div>
             <form asp-controller="Home" asp-action="Index" method="post">
                 <input asp-for="Name" class="form-control" placeholder="Enter Name" />
-                <span asp-validation-for="Name"></span>
+                @* <span asp-validation-for="Name"></span> *@
                 <br />
 
                 <input asp-for="Email" class="form-control" placeholder="Enter Email" />
-                <span asp-validation-for="Email"></span>
+                @* <span asp-validation-for="Email"></span> *@
                 <br />
 
                 <input asp-for="Age" class="form-control" placeholder="Enter Age" />
-                <span asp-validation-for="Age"></span>
+                @* <span asp-validation-for="Age"></span> *@
                 <br />
 
-                <input asp-for="Password" class="form-control" placeholder="Enter Password" />
+               @*  <input asp-for="Password" class="form-control" placeholder="Enter Password" />
                 <span asp-validation-for="Password"></span>
                 <br />
+
+                <input asp-for="ConfirmPassword" class="form-control" placeholder="Enter ConfirmPassword" />
+                <span asp-validation-for="ConfirmPassword"></span>
+                <br />
+
+                <input asp-for=" WebSiteURL" class="form-control" placeholder="Enter WebsiteURL" />
+                <span asp-validation-for=" WebSiteURL"></span>
+                <br /> *@
                 <input type="submit" value="Submit" class="btn btn-outline-primary" />
             </form>
         </div>

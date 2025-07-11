@@ -20,6 +20,10 @@ namespace ValidationAttributeASPCore.Controllers
         [HttpPost]
         public IActionResult Index(Student std)
         {
+            if (ModelState.IsValid)
+            {
+                ModelState.Clear();
+            }
             return View();
             //if (ModelState.IsValid)
             //{

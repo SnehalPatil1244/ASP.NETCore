@@ -31,3 +31,4 @@ D:\Backup 05-07-2025\Desktop\Asp.Net Core\ValidationAttributeASPCore\ValidationA
 D:\Backup 05-07-2025\Desktop\Asp.Net Core\ValidationAttributeASPCore\ValidationAttributeASPCore\obj\Debug\net8.0\ValidationAttributeASPCore.pdb
 D:\Backup 05-07-2025\Desktop\Asp.Net Core\ValidationAttributeASPCore\ValidationAttributeASPCore\obj\Debug\net8.0\ValidationAttributeASPCore.genruntimeconfig.cache
 D:\Backup 05-07-2025\Desktop\Asp.Net Core\ValidationAttributeASPCore\ValidationAttributeASPCore\obj\Debug\net8.0\ref\ValidationAttributeASPCore.dll
+D:\Backup 05-07-2025\Desktop\Asp.Net Core\ValidationAttributeASPCore\ValidationAttributeASPCore\obj\Debug\net8.0\ValidationAttributeASPCore.sourcelink.json

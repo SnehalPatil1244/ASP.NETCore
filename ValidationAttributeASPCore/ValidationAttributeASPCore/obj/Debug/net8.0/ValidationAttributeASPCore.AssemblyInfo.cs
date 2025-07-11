@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValidationAttributeASPCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b01d3466150a6e89cad3e05049f890bf79084099")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValidationAttributeASPCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValidationAttributeASPCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
